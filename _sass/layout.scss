@@ -1,5 +1,5 @@
 .imageWrapper {					// Sets the background image in the header area
-	height: 714px;
+	height: 800px;
 	background: 
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
@@ -366,6 +366,10 @@ nav > ul li a:active {
 	.playStore {
 		margin-right: 0px;
 		margin-bottom: 24px;
+	}
+
+	.appDescription {
+		font-size: 2rem;
 	}
 	
 } 
