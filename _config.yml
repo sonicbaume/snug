@@ -12,7 +12,9 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/snug-logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Snug: Smart White Noise App"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : ⭐ 4.7                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_downloads                             : "3,000"
+app_rating                                : 5.0
+# app_price                                 : ⭐ 4.7                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Snug helps you or your baby fall into a deep sleep using soothing and calming sounds. Its unique monitor feature detects when your baby cries and helps them back to sleep.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
